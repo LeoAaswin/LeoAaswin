@@ -4,7 +4,7 @@ I'm a Full Stack Developer passionate about building scalable, responsive web ap
 🌱 Currently learning: Advanced cloud architectures and new JavaScript frameworks.
 🔭 Working on: Open-source projects and innovative web solutions at Tantriktech Solutions.
 💬 Ask me about: React, Node.js, AWS, or building custom CMS platforms.
-📫 Reach me: leo.aaswin@example.com
+📫 Reach me: info@dhakalasmin.com.np
 😄 Pronouns: He/Him
 ⚡ Fun fact: I’ve trekked to Everest Base Camp, inspiring my love for adventure and tech!
 
