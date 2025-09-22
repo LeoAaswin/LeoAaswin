@@ -1,75 +1,19 @@
-👋 Hi, I'm Aaswin Dhakal (Leo)!
-I'm a Full Stack Developer passionate about building scalable, responsive web applications with a focus on clean code and seamless user experiences. I thrive on solving complex problems and delivering robust solutions that drive business growth. When I'm not coding, you can find me hiking in nature or exploring new technologies. 🌄
-
-🌱 Currently learning: Advanced cloud architectures and new JavaScript frameworks.
-🔭 Working on: Open-source projects and innovative web solutions at Tantriktech Solutions.
-💬 Ask me about: React, Node.js, AWS, or building custom CMS platforms.
-📫 Reach me: info@dhakalasmin.com.np
-😄 Pronouns: He/Him
-⚡ Fun fact: I’ve trekked to Everest Base Camp, inspiring my love for adventure and tech!
-
-
-🚀 Skills
+<h1 align="center">Hi 👋,</h1>
+<h3 align="center">I am Asmin Dhakal</h3>
 
 
 
-Category
-Technologies
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/asmin dhakal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmin dhakal" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-Languages
-JavaScript, TypeScript, Python, Java, C++
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoaaswin&show_icons=true&locale=en&layout=compact" alt="leoaaswin" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoaaswin&show_icons=true&locale=en" alt="leoaaswin" /></p>
 
-Frontend
-React, Next.js, HTML, CSS, WordPress, Shopify
-
-
-Backend
-Node.js, Express.js, NestJS, Flask, FastAPI, Spring Boot
-
-
-Databases
-MySQL, PostgreSQL, MongoDB, Redis
-
-
-DevOps/Tools
-AWS (S3, EC2, Route 53), Azure, Docker, Nginx, GitHub CI/CD, Linux, Cpanel
-
-
-Other
-Odoo, Nodemailer, Stripe, Google Login, Custom CMS Development
-
-
-
-🏆 Achievements
-
-Certified in Back-End Development: Mastered server-side programming, RESTful APIs, and database management.
-Certified in Front-End Development: Built dynamic, responsive web interfaces with HTML, CSS, and JavaScript.
-Assistant Developer at Tantriktech Solutions: Contributing to scalable web solutions since December 2023.
-
-
-💻 Featured Projects
-Trekking Website with CMS
-A full-stack adventure booking platform with a custom CMS for managing trips and bookings. Features Google Login, Stripe payments, and a responsive UI.Tech Stack: React, Node.js, Sequelize, PostgreSQL, StripeRepo: [Private, contact for demo]
-Digital Branding Web App
-A scalable digital branding platform with a custom CMS for efficient content management and marketing.Tech Stack: Next.js, Express.js, PostgreSQLRepo: [Private, contact for demo]
-Custom Chatbot
-A dynamic, customizable chatbot for enhanced customer engagement, with seamless website integration.Tech Stack: Next.js, FastAPI, MongoDBRepo: GitHub (Placeholder)
-Cashmere Web App
-An e-commerce platform for premium pashmina products, featuring product galleries and secure checkout.Tech Stack: Next.jsRepo: [Private, contact for demo]
-Coffee Brand Website
-A portfolio site showcasing coffee products and brand story, with Nodemailer for contact forms.Tech Stack: React, NodemailerRepo: [Private, contact for demo]
-
-📊 GitHub Stats
-
-
-
-🌐 Connect with Me
-
-LinkedIn
-GitHub
-
-
-“Code is like a trail in the mountains: with the right path, it leads to breathtaking destinations.”
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leoaaswin&" alt="leoaaswin" /></p>
