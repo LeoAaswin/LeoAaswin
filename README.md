@@ -243,7 +243,15 @@ Features include:
 
 ---
 
-## 🍵 Danfe Tea AI Assistant
+<h2>
+  <img
+    src="https://teamaster.danfetea.com/danfe_logo.webp"
+    width="32"
+    height="32"
+    alt="Danfe Tea"
+  />
+  Danfe Tea AI Assistant
+</h2>
 
 An AI-powered shopping assistant designed for an e-commerce tea store.
 
