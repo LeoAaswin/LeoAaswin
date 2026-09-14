@@ -315,21 +315,22 @@ A content management platform for trekking and travel-related businesses.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=LeoAaswin&show_icons=true&hide_border=true&theme=transparent"
-    alt="Asmin Dhakal's GitHub Stats"
+    src="./profile/stats.svg"
+    height="180"
+    alt="GitHub Stats"
   />
-</p>
 
-<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAaswin&layout=compact&hide_border=true&theme=transparent"
+    src="./profile/top-langs.svg"
+    height="180"
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=LeoAaswin&hide_border=true&theme=transparent"
+    src="./profile/streak.svg"
+    height="180"
     alt="GitHub Streak"
   />
 </p>
