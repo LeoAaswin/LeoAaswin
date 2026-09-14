@@ -130,9 +130,14 @@ Exploring and building:
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
   </a>
-  <a href="https://nestjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="45" height="45" alt="NestJS"/>
-  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
+    width="45"
+    height="45"
+    alt="NestJS"
+  />
+</a>
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express"/>
   </a>
@@ -196,9 +201,14 @@ Exploring and building:
   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45" height="45" alt="Jenkins"/>
   </a>
-  <a href="https://argo-cd.readthedocs.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon.svg" width="45" height="45" alt="Argo CD"/>
-  </a>
+  <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg"
+    width="45"
+    height="45"
+    alt="Argo CD"
+  />
+</a>
 </p>
 
 **AWS • Azure • Docker • Kubernetes • Terraform • Jenkins • Argo CD • Linux • Caddy • Nginx**
@@ -301,11 +311,25 @@ A content management platform for trekking and travel-related businesses.
 
 # 📊 GitHub Stats
 
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeoAaswin&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAaswin&layout=compact&theme=transparent&hide_border=true" height="170" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=LeoAaswin&show_icons=true&hide_border=true&theme=transparent"
+    alt="Asmin Dhakal's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LeoAaswin&theme=transparent&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAaswin&layout=compact&hide_border=true&theme=transparent"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=LeoAaswin&hide_border=true&theme=transparent"
+    alt="GitHub Streak"
+  />
 </p>
