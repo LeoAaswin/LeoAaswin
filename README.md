@@ -1,19 +1,311 @@
-<h1 align="center">Hi 👋,</h1>
-<h3 align="center">I am Asmin Dhakal</h3>
+<h1 align="center">Hi 👋, I'm Asmin Dhakal</h1>
 
+<h3 align="center">
+  Software Engineer • Full-Stack Developer • DevOps Enthusiast
+</h3>
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/asmin-dhakal-17a205254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmin dhakal" height="30" width="40" /></a>
+<p align="center">
+  I build scalable web applications, mobile apps, APIs, and cloud-native systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://dhakalasmin.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-dhakalasmin.com.np-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/asmin-dhakal-17a205254/">
+    <img src="https://img.shields.io/badge/LinkedIn-Asmin%20Dhakal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/LeoAaswin">
+    <img src="https://img.shields.io/badge/GitHub-LeoAaswin-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoaaswin&show_icons=true&locale=en&layout=compact" alt="leoaaswin" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoaaswin&show_icons=true&locale=en" alt="leoaaswin" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leoaaswin&" alt="leoaaswin" /></p>
+I'm a Software Engineer from Nepal focused on building modern, scalable, and production-ready applications.
+
+- 🔭 Currently working as a **Full-Stack Developer**
+- 💻 Experienced in **React, Next.js, Node.js, NestJS, and React Native**
+- ⚙️ Building backend systems with **NestJS, .NET, PostgreSQL, Redis, and Prisma**
+- ☁️ Exploring **AWS, Azure, Docker, Kubernetes, Terraform, and DevOps**
+- 🤖 Working with **AI, RAG, LLM applications, vector databases, and AI agents**
+- 📱 Building cross-platform mobile applications with **React Native**
+- 🛠️ Interested in **system design, distributed systems, cloud infrastructure, and scalable architectures**
+- 📚 Always learning and experimenting with new technologies
+- 🌏 Based in **Nepal**
+
+---
+
+## 🚀 What I Build
+
+### 🌐 Full-Stack Applications
+
+I build complete applications from frontend to backend, including:
+
+- Modern web applications
+- REST APIs
+- Authentication & authorization
+- Admin dashboards
+- E-commerce platforms
+- ERP systems
+- Content management systems
+
+### 📱 Mobile Applications
+
+Building mobile applications using:
+
+- React Native
+- Expo
+- Redux
+- TanStack Query
+- REST APIs
+- Offline/network-aware experiences
+
+### ☁️ Cloud & DevOps
+
+Working with:
+
+- Docker & Docker Compose
+- Kubernetes
+- Minikube
+- Azure
+- AWS
+- Terraform
+- Caddy / Nginx
+- CI/CD
+- Argo CD
+- HashiCorp Vault
+- External Secrets Operator
+- Prometheus & Grafana
+- Loki
+
+### 🤖 AI & Intelligent Applications
+
+Exploring and building:
+
+- RAG pipelines
+- LLM-powered chatbots
+- AI agents
+- Vector search
+- Semantic search
+- Document-based question answering
+- Product recommendation systems
+- AI-powered classification
+- LLM application architectures
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend
+
+<p align="left">
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45" alt="Next.js"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
+  </a>
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45" alt="Redux"/>
+  </a>
+</p>
+
+**React • Next.js • TypeScript • JavaScript • Tailwind CSS • Redux • React Query**
+
+### Backend
+
+<p align="left">
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
+  </a>
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="45" height="45" alt="NestJS"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  </a>
+</p>
+
+**Node.js • NestJS • Express • Python • REST APIs • GraphQL**
+
+### Databases & Storage
+
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="45" height="45" alt="Redis"/>
+  </a>
+</p>
+
+**PostgreSQL • MongoDB • MySQL • Redis • Prisma • Drizzle ORM**
+
+### Mobile
+
+<p align="left">
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://reactnative.dev/img/header_logo.svg" width="45" height="45" alt="React Native"/>
+  </a>
+  <a href="https://expo.dev/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" width="45" height="45" alt="Expo"/>
+  </a>
+</p>
+
+**React Native • Expo • React Navigation • Redux • TanStack Query**
+
+### Cloud & DevOps
+
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS"/>
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" height="45" alt="Azure"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45" height="45" alt="Kubernetes"/>
+  </a>
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45" height="45" alt="Terraform"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45" height="45" alt="Jenkins"/>
+  </a>
+  <a href="https://argo-cd.readthedocs.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon.svg" width="45" height="45" alt="Argo CD"/>
+  </a>
+</p>
+
+**AWS • Azure • Docker • Kubernetes • Terraform • Jenkins • Argo CD • Linux • Caddy • Nginx**
+
+### Monitoring & Infrastructure
+
+**Prometheus • Grafana • Loki • Vault • External Secrets • RabbitMQ • Redis**
+
+### AI / Data
+
+**OpenAI • RAG • Vector Search • Qdrant • Embeddings • LLM Applications • AI Agents**
+
+---
+
+# 📌 Featured Projects
+
+## 🏢 Pashmina ERP
+
+A business management system designed for pashmina manufacturing workflows.
+
+**Tech:** React • TypeScript • Express • Drizzle ORM • PostgreSQL
+
+Features include:
+
+- Role-based access control
+- Admin management
+- Store management
+- Supervisor workflows
+- Accounts management
+- Piece-rate wage management
+- Inventory and operational workflows
+
+---
+
+## 🍵 Danfe Tea AI Assistant
+
+An AI-powered shopping assistant designed for an e-commerce tea store.
+
+**Tech:** NestJS • PostgreSQL • Redis • Qdrant • OpenAI • RAG
+
+Working on:
+
+- Product-aware conversations
+- RAG-based knowledge retrieval
+- Semantic search
+- Product recommendations
+- Shopify integration
+- Order and checkout tools
+- Streaming responses
+- AI intent classification
+- Knowledge-base management
+
+---
+
+## 🍽️ Flavors Nepal
+
+A food-focused social platform with video content and AI-powered processing.
+
+**Tech:** .NET • React Native • PostgreSQL • RabbitMQ • Azure • Kubernetes • FFmpeg • AI**
+
+Working with:
+
+- Video upload & processing
+- Async event-driven architecture
+- RabbitMQ
+- Azure Blob Storage
+- FFmpeg transcoding
+- AI food classification
+- Kubernetes deployments
+- Argo CD
+- Vault
+- External Secrets
+- Prometheus / Grafana / Loki
+
+---
+
+## 🛒 Luna Bites
+
+An e-commerce platform for baby food products.
+
+**Tech:** Next.js • Vendure • Node.js • PostgreSQL • Docker**
+
+---
+
+## 📱 Drinks Nepal
+
+A mobile e-commerce and delivery application.
+
+**Tech:** React Native • Redux • REST APIs**
+
+---
+
+## 🥾 Trekking CMS
+
+A content management platform for trekking and travel-related businesses.
+
+**Tech:** Next.js • React • Node.js • PostgreSQL**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeoAaswin&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAaswin&layout=compact&theme=transparent&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LeoAaswin&theme=transparent&hide_border=true" />
+</p>
